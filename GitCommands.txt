@@ -11,3 +11,7 @@ git commit -m "<message>"
 git remote -v (lists the repository details local or remote)
 
 git branch -a (lists the branch details)
+
+
+* Push the changes to branch1 * for the first time
+git push https://github.com/muniraju021/NewGitTest.git branch1

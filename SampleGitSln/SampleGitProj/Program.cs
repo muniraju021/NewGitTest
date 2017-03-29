@@ -11,6 +11,7 @@ namespace SampleGitProj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World Raj Wassup");
+            Console.WriteLine("I am good");
             Console.ReadLine();
         }
     }
