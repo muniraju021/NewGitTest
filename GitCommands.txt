@@ -19,3 +19,10 @@ git push https://github.com/muniraju021/NewGitTest.git branch1
 
 * Gives the list of branch thats been merged
 git branch --merged
+
+* Stashing the current changes
+git stash list (List all the current stashes available)
+
+*Apply stashed changes
+git stash apply (applies the latest stashed changes)
+git stash apply --index (to reapply the stagged changed along with stashed changes)
