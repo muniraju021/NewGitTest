@@ -1,2 +1,6 @@
-D:\MUNI\ResearchPgms\Study\ASP.Net_WebAPI\SampleGitSln\SampleGitProj\bin\Debug\SampleGitProj.exe.config
 D:\MUNI\ResearchPgms\Study\GitHubRepository\SampleGitSln\SampleGitProj\bin\Debug\SampleGitProj.exe.config
+D:\MUNI\ResearchPgms\Study\GitHubRepository\SampleGitSln\SampleGitProj\bin\Debug\SampleGitProj.exe
+D:\MUNI\ResearchPgms\Study\GitHubRepository\SampleGitSln\SampleGitProj\bin\Debug\SampleGitProj.pdb
+D:\MUNI\ResearchPgms\Study\GitHubRepository\SampleGitSln\SampleGitProj\obj\Debug\SampleGitProj.csprojResolveAssemblyReference.cache
+D:\MUNI\ResearchPgms\Study\GitHubRepository\SampleGitSln\SampleGitProj\obj\Debug\SampleGitProj.exe
+D:\MUNI\ResearchPgms\Study\GitHubRepository\SampleGitSln\SampleGitProj\obj\Debug\SampleGitProj.pdb
