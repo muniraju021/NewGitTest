@@ -1,0 +1,13 @@
+git init
+
+(Add it to stagging directory)
+git add .
+
+git clone <cloneurl> .
+
+
+git commit -m "<message>"
+
+git remote -v (lists the repository details local or remote)
+
+git branch -a (lists the branch details)
