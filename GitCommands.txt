@@ -21,5 +21,14 @@ git push https://github.com/muniraju021/NewGitTest.git branch1
 git branch --merged
 
 
+
 * Stash all the checkedout files
 git stash
+
+* Stashing the current changes
+git stash list (List all the current stashes available)
+
+*Apply stashed changes
+git stash apply (applies the latest stashed changes)
+git stash apply --index (to reapply the stagged changed along with stashed changes)
+
