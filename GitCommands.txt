@@ -17,4 +17,5 @@ git branch -a (lists the branch details)
 git push https://github.com/muniraju021/NewGitTest.git branch1
 
 
+* Gives the list of branch thats been merged
 git branch --merged
