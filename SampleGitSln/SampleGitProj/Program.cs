@@ -10,7 +10,7 @@ namespace SampleGitProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Raj Wassup");            
+            Console.WriteLine("This is branch1 copy");            
             Console.ReadLine();
         }
     }
